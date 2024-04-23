@@ -22,8 +22,34 @@ Objectives: <br />
 
 <!-- <p align="center"> -->
 
-<b>Section 1:</b> <br />
-Question 1:
+<p align="center"><b>Section 1:</b></p><br />
+Question 2: <br />
+<img src="https://i.imgur.com/J3j5FGK.png" width="80%" alt="querying database data"/>
 
-<img src="https://i.imgur.com/i6xCp2O.png" width="80%" alt="querying database data"/>
+Question 3: <br />
+<img src="https://i.imgur.com/qYKryPN.png" width="80%" alt="querying database data"/>
 
+Question 4: <br />
+<img src="https://i.imgur.com/J3j5FGK.png" width="80%" alt="querying database data"/>
+
+Question 5: <br />
+<img src="https://i.imgur.com/jdNUqOL.png" width="80%" alt="querying database data"/>
+
+Question 6: <br />
+<img src="https://i.imgur.com/s08Lsp5.png" width="80%" alt="querying database data"/>
+
+Question 7: <br />
+<img src="https://i.imgur.com/jLb4XB4.png" width="80%" alt="querying database data"/>
+
+Question 8: <br />
+<img src="https://i.imgur.com/PTLZ63z.png" width="80%" alt="querying database data"/>
+
+Question 9: <br />
+<img src="https://i.imgur.com/6mnFEez.png" width="80%" alt="querying database data"/>
+
+Question 10: <br />
+<img src="https://i.imgur.com/9tSA4sG.png" width="80%" alt="querying database data"/>
+
+<br />
+<br />
+<p align="center"><b>Section 2:</b></p><br />
