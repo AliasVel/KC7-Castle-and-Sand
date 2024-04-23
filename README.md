@@ -1,4 +1,4 @@
-<h1>KC7Cyber SOC Analyst Simulation</h1>
+<h1>Sand&Castle - KC7Cyber SOC Analyst Simulation</h1>
 
 <h2>Description</h2>
 A SOC Analyst simulation on www.kc7cyber.com.
